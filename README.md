@@ -1,3 +1,3 @@
 # Prediction of Score based on Hour's Studied 
-## using lineaer Regression
+## using linear Regression
  
